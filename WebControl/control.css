@@ -1,0 +1,25 @@
+﻿
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+table {
+    display: table;
+    margin: 20px auto;
+}
+
+th {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#deefff+0,98bede+100;Blue+3D+%2310 */
+    background: #deefff; /* Old browsers */
+    background: -moz-linear-gradient(top, #deefff 0%, #98bede 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #deefff 0%,#98bede 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #deefff 0%,#98bede 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#deefff', endColorstr='#98bede',GradientType=0 ); /* IE6-9 */
+    padding: 10px 5px;
+}
+
+tr.even td {
+    background: #98bede;
+}
