@@ -1,3 +1,6 @@
+# Obsolete
+With the release of the magnificent [Windows Admin Center](https://docs.microsoft.com/en-us/windows-server/manage/windows-admin-center/understand/windows-admin-center), this is pretty much obsolete. Leaving it here for posterity/potential future ideas that could come from it.
+
 # UserAppMinder
 Web-based task manager for terminal server environment (experimental).
 
